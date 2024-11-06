@@ -1,0 +1,11 @@
+names:
+  - 0:'Title'
+  - 1:'Header'
+  - 2:'Text'
+  - 3:'Figure'
+  - 4:'Foot'
+nc: 5
+path: /root/autodl-tmp/yolov10-main/data
+train: train/images
+val: valid/images
+test: test/images
